@@ -34,10 +34,3 @@ The goal is to predict the next time steps in these sequences, testing the model
 
 The script will generate a plot showing actual vs. predicted sine/cosine waves.
 
-## Author
-
-[Your Name]  
-[Your GitHub Profile](https://github.com/yourusername)  
-
----
-
